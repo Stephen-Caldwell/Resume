@@ -310,3 +310,11 @@ footer{
 .history-items{
     margin-bottom: 30px;
 }
+
+.references{
+    font-size: 12px;
+}
+
+.references-info{
+    float: left;
+}
